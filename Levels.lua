@@ -6,7 +6,7 @@ local LINK_GRUPO = "https://t.me/+vb2TQCYreh0xYTU5"
 
 local anioExp = 2026
 local mesExp = 08
-local diaExp = 22
+local diaExp = 01
 
 function obtenerFechaActual()
     local response = gg.makeRequest("https://worldtimeapi.org/api/timezone/Etc/UTC")
