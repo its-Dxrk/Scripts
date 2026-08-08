@@ -1,4 +1,4 @@
-local CONTRASENA_CORRECTA = "43 7A 72 30 39"  
+local CONTRASENA_CORRECTA = "009900"  
 
 local LINK_CREADOR = "http://t.me/Czr09M"
 local LINK_GRUPO = "https://t.me/+vb2TQCYreh0xYTU5"
